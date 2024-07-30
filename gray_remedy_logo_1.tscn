@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://do6arjwdjx8h6"]
+
+[ext_resource type="Texture2D" uid="uid://do1sf4qvsgl21" path="res://GrayRemedy-Live/Art/Gray_Remedy_Logo_1.png" id="1_et4qf"]
+
+[node name="GrayRemedyLogo1" type="Sprite2D"]
+position = Vector2(576.5, 323.5)
+scale = Vector2(1.29167, 0.913842)
+texture = ExtResource("1_et4qf")
